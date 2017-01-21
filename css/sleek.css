@@ -1,7 +1,7 @@
 /* Youtube */
 #player {
 	position: absolute;
-	left: -400px; top: -244px;
+	left: -800px; top: -800px;
 	z-index: -99;
 }
 
