@@ -45,7 +45,7 @@ video {
 #status-container {
 	position: absolute;
 	height: 50px;
-	width: 100%;
+	width: 50%;
 	top: 50%;
 	text-align: center;
 	margin-top: -25px;
