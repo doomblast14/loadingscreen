@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "SV.md";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -50,7 +50,7 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"",
+	"SV.md",
 ];
 
 
