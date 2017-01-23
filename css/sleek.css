@@ -93,7 +93,7 @@ video {
 #overlay {
 	position: fixed;
 	left: 0px; top: 0px;
-	width: 100%; height: auto;
+	width: 1366; height: 768;
 	z-index: -999;
 	background-repeat: repeat;
 }
